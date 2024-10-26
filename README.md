@@ -114,6 +114,11 @@ $ ./sem.o
 ![Screenshot from 2024-10-11 17-16-46](https://github.com/user-attachments/assets/d58575fe-55f8-4d66-8c7a-18f6a9e754b8)
 
 
+
+
+
+
+
 $ ipcs
 
 
